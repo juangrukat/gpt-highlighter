@@ -1,5 +1,5 @@
 # Word & Phrase Highlighter
-[![Watch the video](https://github.com/juangrukat/gpt-highlighter/blob/main/gpt%20highlighter.mp4)
+[![Watch the video](https://github.com/juangrukat/gpt-highlighter/blob/main/gpt%20highlighter.mp4)]
 
 A Visual Studio Code extension that highlights words and phrases found in user-specified text files. This extension is perfect for emphasizing important terms, flagging problematic language, or creating custom syntax highlighting for domain-specific terminology.
 
